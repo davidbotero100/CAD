@@ -1,8 +1,0 @@
-# Functional 
-    1. UI to submit requested commands
-    2. An interpreter of specific construction/design requests
-    3. GUI showing final product after each iteration
-    4. The ability for user to specify multiple design iterations
-        per design
-    5. Cross referencing with relevant building code document
-    4. Flag areas of building non-compliance
