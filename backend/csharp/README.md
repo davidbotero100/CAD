@@ -7,3 +7,14 @@
 dotnet run
 ``` 
 ```bash
+dotnet watch run
+```
+## Test
+```bash
+dotnet test
+```
+## Build
+```bash
+dotnet build
+```
+
