@@ -6,3 +6,9 @@ backend/crew_ai/.env
 
 # Git flow
 git-push-dev.sh
+
+# frontend
+frontend/node_modules
+
+# temporary files
+frontend/app_OBSOLETE.py
