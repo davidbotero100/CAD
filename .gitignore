@@ -1,1 +1,8 @@
+# Root folder virtual environment
 .venv
+
+# CrewAI virtual environment
+backend/crew_ai/.env
+
+# Git flow
+git-push-dev.sh
