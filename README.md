@@ -11,5 +11,4 @@ git clone
 ```
 
 # GUI
-add a link to index.html
 [Open GUI](./frontend/index.html)
