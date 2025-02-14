@@ -12,14 +12,14 @@ CAD (Civil Automated Design) is a project that aims to automate the design of ci
 
 A comprehensive list of requirements is currently being gathered to initiate a development road map. Language(s), framework(s), system architecture, and minimum-viable-product functionalities are still being defined. 
 
-Below is a list of incomplete and currently changing project dependencies and details.
+Below is a list of evolving project dependencies and details.
 
 ## Requirements
-- AutoCAD Civil 3D installed (Version pending)
+- AutoCAD Civil 3D (Version pending)
 - Python 3.12.x
 - React 18.x
 - Node.js 18.x
-- npm 10.
+- npm 10.x
 - .NET x.x
 - More to come...
 
